@@ -61,7 +61,7 @@ lib/
 
 ### ✅ Setup
 
-git clone https://github.com/your_username/shop_app.git
+git clone https://github.com/GoldleoM/shopping_app.git
 cd shop_app
 flutter pub get
 flutter run
