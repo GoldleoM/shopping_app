@@ -66,33 +66,4 @@ cd shop_app
 flutter pub get
 flutter run
 
-✅ Features in Detail
-Home Page:
-
-Product list with search and category filters
-
-Auto-switch between Grid & List views (depending on screen width)
-
-Tap on products to view details
-
-Product Detail Page:
-
-Displays product info, images, price, and size options
-
-Allows adding product with selected size to cart
-
-Cart Page:
-
-Shows all products in cart with size and image
-
-Delete product from cart with confirmation dialog
-
-Shows snackbars for actions (add/remove)
-
-State Management:
-
-Provider (CartProvider) manages cart products list globally
-
-Notifies all listeners on changes
-
 
